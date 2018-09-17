@@ -1,0 +1,37 @@
+.parent{
+    -fx-background-color: #ECEFF1;
+}
+
+.sidebar{
+    -fx-background-color:  #263238;
+}
+
+.btns{
+    -fx-background-color: #0091EA;
+    -fx-background-radius: 50;
+}
+
+.btns:hover{
+    -fx-background-color: #ECEFF1;
+    -fx-text-fill: #263238;
+    -fx-border-radius: 50;
+    -fx-border-width: 1;
+    -fx-border-color: #26323866;
+
+}
+
+.tabs{
+    -fx-background-color: transparent;
+}
+.tabs:hover{
+    -fx-background-color: #607D8B;
+}
+
+.text-field{
+    -fx-font-size: 10pt;
+    -fx-border-radius: 50;
+    -fx-border-width: 1;
+    -fx-border-color: #26323866;
+    -fx-text-color: #263238EE;
+    -fx-background-color: transparent;
+}
